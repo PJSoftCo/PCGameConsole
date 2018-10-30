@@ -1,2 +1,2 @@
 # PCGameConsole
-Download files are here
+Please download the zipped file
