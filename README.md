@@ -1,4 +1,5 @@
 What's new:
+- V4.6 - Better Cursor Navigation 12-04-2019
 - V4.5 - Bug fixes 11-04-2019
 - V4.0 - Steam Games Compatibility
 
