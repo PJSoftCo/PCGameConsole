@@ -1,4 +1,5 @@
 What's new:
+- V5.3 - Excessive shock feedback fixed/Optimization 03-06-2020
 - V5.2 - Invalid culture name fix 03-03-2020
 - V5.1 - Support the new VGamepad version/Fix for android devices 02-29-2020
 - V5.0 - Major enhancements/Added update-notifier 02-19-2020
