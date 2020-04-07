@@ -1,4 +1,5 @@
 What's new:
+- V5.6 - Performance optimization 04-07-2020
 - V5.5 - Performance optimization 03-26-2020
 - V5.4 - Speed optimization/Bug fixes 03-20-2020
 - V5.3 - Excessive shock feedback fixed/Optimization 03-06-2020
