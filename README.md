@@ -1,5 +1,5 @@
 What's new:
-- V5.7 - Continuous touch for A/B/X/Y or equivalent buttons on PS 04-26-2020
+- V5.7 - Continuous touch for A/B/X/Y or equivalent PS buttons 04-26-2020
 - V5.6 - Performance optimization 04-07-2020
 - V5.5 - Performance optimization 03-26-2020
 - V5.4 - Speed optimization/Bug fixes 03-20-2020
