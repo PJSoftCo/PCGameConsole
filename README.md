@@ -1,9 +1,7 @@
 What's new:
+- V5.8 - Optimization 04-29-2020
 - V5.7 - Continuous touch for A/B/X/Y or equivalent PS buttons 04-26-2020
-- V5.6 - Performance optimization 04-07-2020
-- V5.5 - Performance optimization 03-26-2020
 - V5.4 - Speed optimization/Bug fixes 03-20-2020
-- V5.3 - Excessive shock feedback fixed/Optimization 03-06-2020
 - V5.2 - Invalid culture name fix 03-03-2020
 - V5.1 - Support the new VGamepad version/Fix for android devices 02-29-2020
 - V5.0 - Major enhancements/Added update-notifier 02-19-2020
