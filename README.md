@@ -1,4 +1,5 @@
 What's new:
+- V6.0 - Smoother Control 05-09-2020
 - V5.9 - Better IP detection/Minor fixes 05-02-2020
 - V5.8 - Optimization 04-29-2020
 - V5.7 - Continuous touch for A/B/X/Y or equivalent PS buttons 04-26-2020
