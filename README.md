@@ -1,4 +1,5 @@
 What's new:
+- V6.1 - Game Mode feature added 06-08-2020
 - V6.0 - Smoother Control 05-09-2020
 - V5.9 - Better IP detection/Minor fixes 05-02-2020
 - V5.8 - Optimization 04-29-2020
