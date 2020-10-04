@@ -1,5 +1,5 @@
 What's new:
-- V6.5 - Performance optimization 09-17-2020
+- V6.6 - Bug fixes 10-04-2020
 - V6.3 - Game list not including small files fixed/Mouse cursor lock issue fixed.
 - V6.2 - Game Mode feature added/Optimization 06-09-2020
 - V6.0 - Smoother Control 05-09-2020
