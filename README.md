@@ -1,4 +1,5 @@
 What's new:
+- V6.8 - AR Body Tracker Support 11-23-2020
 - V6.7 - Enhancements 10-06-2020
 - V6.3 - Game list not including small files fixed/Mouse cursor lock issue fixed.
 - V6.2 - Game Mode feature added/Optimization 06-09-2020
