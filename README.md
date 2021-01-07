@@ -1,5 +1,5 @@
 What's new:
-- V7.0 - Minor fixes 01-03-2021
+- V7.1 - Rec button fixed/Better D-pad response 01-06-2021
 - V6.7 - Enhancements 10-06-2020
 - V6.3 - Game list not including small files fixed/Mouse cursor lock issue fixed.
 - V6.2 - Game Mode feature added/Optimization 06-09-2020
