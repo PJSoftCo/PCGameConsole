@@ -1,4 +1,5 @@
 What's new:
+- V7.3 - Hotfix for version checking error 01-26-2021
 - V7.2 - Prevent sleep & display going off/Discord channel shortcut/Click sound changed 01-25-2021
 - V7.1 - Rec button fixed/Better D-pad response 01-06-2021
 - V6.7 - Enhancements 10-06-2020
