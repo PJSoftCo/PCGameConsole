@@ -1,5 +1,5 @@
 What's new:
-- V7.6 - Bug fixes 02-25-2021
+- V7.7 - Steam DX12 games compatibility/Bug fixes 03-03-2021
 - V7.5 - Major Enhancements-Turn on/off Sound-REC/Talk button switchable key triggers-Bug fixes 02-04-2021
 - V7.2 - Prevent sleep & display going off/Discord channel shortcut/Click sound changed 01-25-2021
 - V6.7 - Enhancements 10-06-2020
