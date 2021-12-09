@@ -1,5 +1,7 @@
 ![image](https://user-images.githubusercontent.com/4211206/137196095-b876d813-be2b-463c-9426-3082d968b71d.png)
 
+**Joycon (Cemuhook) data is transfered on this IP 127.0.0.1 Port 26760**
+
 What's new:
 - V7.9 - Enhancements/Support for Joycon 12-09-2021
 - V7.8 - Support for missing Thumb buttons for devices without the 3D touch screen 06-13-2021
