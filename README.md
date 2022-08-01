@@ -3,7 +3,7 @@
 **Joycon (Cemuhook) data is transfered on this IP 127.0.0.1 Port 26760**
 
 What's new:
-- V8.0 - Fixed game adding issue 07-26-2022
+- V8.1 - Fixed game adding issue 07-26-2022
 - V7.9 - Enhancements/Support for Joycon 12-09-2021
 - V7.8 - Support for missing Thumb buttons for devices without the 3D touch screen 06-13-2021
 - V7.5 - Major Enhancements-Turn on/off Sound-REC/Talk button switchable key triggers-Bug fixes 02-04-2021
