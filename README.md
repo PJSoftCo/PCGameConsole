@@ -4,6 +4,7 @@
 **Joycon (Cemuhook) data is transfered on this IP 127.0.0.1 Port 26760**
 
 What's new:
+- V8.4 - Fix for the IOS pressure value update 05-25-2023
 - V8.3 - Drives Scan is an option now 12-02-2022
 - V8.2 - Ability to add games manually/Remove game by middle click/Enable-Disable cursor navigation  11-11-2022
 - V8.1 - Fixed game adding issue 07-26-2022
