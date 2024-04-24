@@ -4,6 +4,7 @@
 **Joycon (Cemuhook) data is transferred on this IP 127.0.0.1 Port 26760**
 
 What's new:
+- V9.1 - Better IP retrieval 04-24-2024
 - V9.0 - Ultimate shock experience/Enhancements 03-25-2024
 - V8.8 - Ability to control mouse and keyboard (Limited to W/A/S/D keys) 03-09-2024
 - V8.4 - Fix for the IOS pressure value update 05-25-2023
