@@ -1,10 +1,11 @@
 ![PCGameConsole](https://user-images.githubusercontent.com/4211206/201414945-22dccd5a-4f77-4032-9b95-8c4837d02965.png)
 
-[PCGameConsole_V9.1.zip](https://raw.githubusercontent.com/PJSoftCo/PCGameConsole/master/PCGameConsole_V9.1.zip)
+[PCGameConsole_V9.1.zip](https://raw.githubusercontent.com/PJSoftCo/PCGameConsole/master/PCGameConsole_V9.2.zip)
 
 **Joycon (Cemuhook) data is transferred on this IP 127.0.0.1 Port 26760**
 
 What's new:
+- V9.2 - Enhancements/Steam games-related fixes 11-13-2025.
 - V9.1 - Better IP retrieval 04-24-2024
 - V9.0 - Ultimate shock experience/Enhancements 03-25-2024
 - V8.8 - Ability to control mouse and keyboard (Limited to W/A/S/D keys) 03-09-2024
