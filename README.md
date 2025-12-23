@@ -5,7 +5,8 @@
 **Joycon (Cemuhook) data is transferred on this IP 127.0.0.1 Port 26760**
 
 What's new:
-- V9.2 - Enhancements/Steam games-related fixes 11-13-2025.
+- V9.3 - Automatic Server Discovery (App >= V9.5) 12-23-2025
+- V9.2 - Enhancements/Steam games-related fixes 11-13-2025
 - V9.1 - Better IP retrieval 04-24-2024
 - V9.0 - Ultimate shock experience/Enhancements 03-25-2024
 - V8.8 - Ability to control mouse and keyboard (Limited to W/A/S/D keys) 03-09-2024
