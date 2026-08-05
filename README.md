@@ -1,11 +1,11 @@
 ![PCGameConsole](https://user-images.githubusercontent.com/4211206/201414945-22dccd5a-4f77-4032-9b95-8c4837d02965.png)
 
-[PCGameConsole.zip](https://raw.githubusercontent.com/PJSoftCo/PCGameConsole/master/PCGameConsole_V9.2.zip)
+[PCGameConsole.zip](https://raw.githubusercontent.com/PJSoftCo/PCGameConsole/master/PCGameConsole_V9.5.zip)
 
 **Joycon (Cemuhook) data is transferred on this IP 127.0.0.1 Port 26760**
 
 What's new:
-- V9.4 - Major Enhancements/Body Tracker simulator (App >= V10) 07-29-2026
+- V9.5 - Major Enhancements/Body Tracker simulator (App >= V10) 05-05-2026
 - V9.3 - Automatic Server Discovery (App >= V9.5) 12-23-2025
 - V9.2 - Enhancements/Steam games-related fixes 11-13-2025
 - V9.1 - Better IP retrieval 04-24-2024
